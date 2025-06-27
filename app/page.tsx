@@ -125,12 +125,12 @@ export default function Home() {
                 </a> */}
                 <span >
                   <a
-                    href="mailto:techstackcontack@gmail.com"
+                    href="mailto:contact.techstack21@gmail.com"
                     className="flex text-white font-semibold py-3 px-6 rounded-full shadow-md animate-slideInLeft"
                   >
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 ml-4 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 0 0 2.22 0L21 8M5 19h14a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2z" />
-                    </svg> techstackcontack@gmail.com </a>
+                    </svg> contact.techstack21@gmail.com </a>
                 </span>
               </div>
             </div>
@@ -229,13 +229,13 @@ export default function Home() {
           </div>
           <span>
             <a
-              href="mailto:techstackcontack@gmail.com"
+              href="mailto:contact.techstack21@gmail.com"
               className="flex items-center gap-2  text-white font-semibold py-2 px-4 rounded-full shadow-md hover:bg-blue-100 transition"
             >
               <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 0 0 2.22 0L21 8M5 19h14a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2z" />
               </svg>
-              techstackcontack@gmail.com
+              contact.techstack21@gmail.com
             </a>
           </span>
         </div>
